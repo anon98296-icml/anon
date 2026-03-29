@@ -1,7 +1,5 @@
 Stability of the top-weighted questions across different random seeds for 5% and 10% test sets
 
-Stability of the top-weighted questions across different random seeds for 5% and 10% test sets
-
 |        |        5% Test Set         |                     |        10% Test Set        |                     |
 |--------|---------------------------|---------------------|----------------------------|---------------------|
 | Seed   | Overlap (%)               | Count               | Overlap (%)                | Count               |
