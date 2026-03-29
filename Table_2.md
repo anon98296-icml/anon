@@ -1,4 +1,4 @@
-Stability of the top-weighted questions across different random seeds for 5% and 10% test sets
+## Table 2: Stability of the Top-weighted Questions across Different Random Seeds for 5% and 10% Test Sets
 
 |        |        5% Test Set         |                     |        10% Test Set        |                     |
 |--------|---------------------------|---------------------|----------------------------|---------------------|
