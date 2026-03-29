@@ -1,5 +1,6 @@
 ## Table 1: Results under Math Precalculus Hard as evaluation dataset and heterogenous preference sources
 
+**RM Legend**
 - RM1: [deberta-v3-base](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-base)
 - RM2: [deberta-v3-large](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large)
 - RM3: [deberta-v3-large-v2](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large-v2)
